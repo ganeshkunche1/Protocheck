@@ -254,7 +254,7 @@ The current implementation is a prototype focused on demonstrating the self-chec
 ### 1. Clone the repository
 
 ```bash
-git clone [<YOUR_GITHUB_REPOSITORY_URL>](https://github.com/ganeshkunche1/Protocheck/tree/main)
+git clone (https://github.com/ganeshkunche1/Protocheck/tree/main)
 cd ProtoCheck
 ```
 
