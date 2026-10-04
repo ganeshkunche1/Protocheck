@@ -241,11 +241,19 @@ The current implementation is a prototype focused on demonstrating the self-chec
 
 - Python
 - LLM APIs
-- Source Recommendation
-- Evidence Selection
-- Claim Extraction
-- Claim-Level Verification
-- Web Application
+- FastAPIs
+- Uvicorn
+- Pydantic
+- HTML/CSS/JavaScript
+- pypdf
+- Gemini API — LLM-based generation and verification
+- Tavily API — source recommendation
+- pytest
+
+6:58 PM
+24s
+•
+
 
 ---
 
